@@ -1,1 +1,9 @@
 @import "./styles/reset.css";
+
+body {
+    background-color: #FFFFFF
+} 
+
+.main{
+    background-color: #FAF6F4;
+}
